@@ -2,6 +2,10 @@
 
 This project demonstrates a simple bioinformatics pipeline for analyzing tumor mutation datasets using Linux command-line tools and Bash scripting.
 
+# Biological context
+cancer arises from the accumulation of somatics mutations in key genes such as TP53,KRAS and BRAF.
+This mini project simulates a tumor mutation dataset and demonstrates how basic bioinformatics tools can be used to explore mutation patterns.
+
 ## Project structure
 
 Cancer_Genomics_Mini_Project
@@ -33,6 +37,21 @@ Cancer_Genomics_Mini_Project
 - cut
 - sort
 - uniq
+  
+# skills demonstrated
+
+-linux command line
+-bash scripting
+-bioinformatics pipelines 
+-cancer genomics data exploration 
+-reproductible research
+
+# This section is useful for:
+
+-Thesis application
+-Bioinformatics internships application
+-linkedin profile
+
 
 ## Author
 
