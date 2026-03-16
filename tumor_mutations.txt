@@ -1,0 +1,16 @@
+Sample Gene Chromosome MutationType BaseChange
+T01 TP53 17 Missense C>T
+T02 KRAS 12 Missense G>A
+T03 TP53 17 Nonsense C>A
+T04 PIK3CA 3 Missense A>G
+T05 TP53 17 Missense G>T
+T06 BRAF 7 Missense T>A
+T07 KRAS 12 Missense G>T
+T08 TP53 17 Frameshift Del
+T09 APC 5 Nonsense C>T
+T10 TP53 17 Missense C>T
+T11 KRAS 12 Missense G>A
+T12 BRAF 7 Missense T>C
+T13 TP53 17 Missense C>T
+T14 APC 5 Frameshift Ins
+T15 PIK3CA 3 Missense A>G
